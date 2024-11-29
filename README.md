@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00FF00&width=1000&lines=Welcome+to+my+GitHub!;I'm+Scarlett+Danger,+a+nerd+passionate+about+OSINT+coding+and+security)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00FF00&width=1000&lines=Welcome+to+my+GitHub!;I'm+Scarlett+Danger)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Z3r0s?label=Follow&style=social)](https://github.com/scarlett-danger?tab=followers)
