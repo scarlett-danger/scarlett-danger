@@ -1,8 +1,6 @@
 # Hello, World! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00FF00&width=1000&lines=Welcome+to+my+GitHub!;I'm+Scarlett+Danger)
-
-[![Animated Badge](https://badgen.net/badge/Focus/CyberSecurity/blue?icon=awesome)](https://github.com/scarlett-danger)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=scarlett-danger&show_icons=true&theme=radical)](https://github.com/scarlett-danger)
 
 ## 🚀 About Me
