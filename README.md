@@ -12,6 +12,6 @@ I'm a **Professional Software Engineer** with an M.S. in Computer Science that b
 ## 🛠 My Toolbox
 
 - **Languages** 
-  ![Javascript](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Javascript-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C#](https://img.shields.io/badge/C#-00ADD8?style=for-the-badge&logo=go&logoColor=white)
